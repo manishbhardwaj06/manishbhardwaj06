@@ -21,15 +21,7 @@ I am a Computer Science Engineering graduate passionate about transforming raw d
 - Engineered automated data cleaning pipelines for transaction logs ensuring 100% data integrity.
 - Implemented RFM analysis to segment customers into high-value cohorts for targeted marketing.
 - Built a fully custom, interactive web dashboard with dynamic KPI cards and multi-dimensional filters.
-
-#### 🔹 [Customer Churn & Retention Statistical Analysis](#)
-*Tech Stack: Python, SQL, SciPy, Seaborn*
-- Analyzed 10,000+ customer records to identify churn drivers using complex SQL queries.
-- Conducted Cohort Analysis and Hypothesis Testing to validate engagement metrics impact on CLTV.
-- Generated automated visual reports translating complex statistical models into clear data storytelling.
-
----
-
+- 
 ### 📫 Let's Connect!
 - 💼 **LinkedIn:** [linkedin.com/in/manish-kumar-1b7061346](https://www.linkedin.com/in/manish-kumar-1b7061346/)
 - 📧 **Email:** 9582manishbhardwaj@gmail.com
