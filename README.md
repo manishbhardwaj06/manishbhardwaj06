@@ -6,7 +6,7 @@ I am a Computer Science Engineering graduate passionate about transforming raw d
 ---
 
 ### 🛠️ Technical Arsenal
-- **Languages:** Python, SQL, JavaScript, HTML, CSS
+- **Languages:** Python, SQL
 - **Data Analysis:** Pandas, NumPy, EDA, Hypothesis Testing, A/B Testing
 - **Analytics Concepts:** RFM Segmentation, Cohort Analysis, Churn Prediction, KPI Tracking
 - **Visualization:** Matplotlib, Seaborn, Custom Web Dashboards
